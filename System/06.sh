@@ -11,3 +11,7 @@
 /* ************************************************************************** */
 
 sudo service ssh restart
+
+or 
+
+control d the service and then "vagrant reload"
