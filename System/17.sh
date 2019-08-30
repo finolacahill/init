@@ -10,5 +10,5 @@
 #                                                                              #
 # **************************************************************************** #
 
-ssh vagrant
-and then to login to a specific user sudo login USERNAME
+ssh username@ip_address
+or if using a container like vagrant - ssh vagrant
