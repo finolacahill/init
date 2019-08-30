@@ -11,4 +11,4 @@ I used Vagrant to explore using my first virtual machine. This project exposed m
 
 
 ### Usage
-Some questions should be run with the *sh* command, and some should be read with the *cat* command. The accompanying [PDF](https://github.com/finolacahill/init/blob/master/init.en.pdf) clarifies this. 
+Some answers should be run with the *sh* command, and some should be read with the *cat* command. The accompanying [PDF](https://github.com/finolacahill/init/blob/master/init.en.pdf) clarifies this. 
